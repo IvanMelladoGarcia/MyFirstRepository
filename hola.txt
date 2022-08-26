@@ -1,1 +1,2 @@
 Esto es un texto para la practica del 26/08/2022
+Comentario de Ivan para el conflicto.
