@@ -1,1 +1,3 @@
 Contenido de este archivo
+
+Escritura del archivo.
